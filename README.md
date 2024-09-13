@@ -20,6 +20,6 @@
 
 ## 💻 Systèmes d'exploitation (OS)
 <p>
-  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS" height="30"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows" height="30"/>
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS" height="30"/>
 </p>
